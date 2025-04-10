@@ -1,4 +1,4 @@
-import UIUX_Apps from "../assets/projects/Sosmed 2.png"
+// import UIUX_Apps from "../assets/projects/Sosmed-2.png"
 import Latahzan from "../assets/Projects/1.png"
 import Logo from "../assets/Projects/logo.png"
 import ITechno from "../assets/Projects/weblomba.png"
@@ -14,18 +14,18 @@ import web_mi from "../assets/Projects/web mi.png"
 
 
 const projects = [
-    {
-        img: UIUX_Apps,
-        name: "UI UX Apps Online Shop",
-        demo: "https://www.instagram.com/p/C_0pASpSo_s/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        code: "https://www.instagram.com/p/C_0pASpSo_s/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        description: "Ini Merupakan Projek UI UX Saya yakni UI UX Apps Store Online.",
-        style: {
-            shadow: "shadow-[#3498AB]",
-            cover: "from-[#3498AB]",
-            display: " hidden group-hover:flex"
-        }
-    },
+    // {
+    //     img: UIUX_Apps,
+    //     name: "UI UX Apps Online Shop",
+    //     demo: "https://www.instagram.com/p/C_0pASpSo_s/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    //     code: "https://www.instagram.com/p/C_0pASpSo_s/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    //     description: "Ini Merupakan Projek UI UX Saya yakni UI UX Apps Store Online.",
+    //     style: {
+    //         shadow: "shadow-[#3498AB]",
+    //         cover: "from-[#3498AB]",
+    //         display: " hidden group-hover:flex"
+    //     }
+    // },
     {
         img: Latahzan,
         name: "Website Tim Basket Latahzan",

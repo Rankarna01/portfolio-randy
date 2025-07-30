@@ -9,7 +9,9 @@ import Kappdrs from "../assets/Projects/kaap.png"
 // import Sacco from "../assets/Projects/saccoo.png"
 import Coffe from "../assets/Projects/cofee.png"
 import web_mi from "../assets/Projects/web mi.png"
-
+import simpedas from "../assets/Projects/simpedas.png"
+import sirental from "../assets/Projects/sirental.png"
+import sifrozen from "../assets/Projects/siforezen.png"
 
 
 
@@ -63,6 +65,18 @@ const projects = [
         }
     },
     {
+        img: simpedas,
+        name: "UI UX Web SIMPEDAS (Sistem Pangkalan Data Pendidikan Dinas Pemantang Siantar)",
+        demo: "https://www.figma.com/design/NRTfW8UgKi0pFhcPMGQA3f/UI-UX-Web-SIMPEDAS?node-id=44-413&t=0AfanY8jWALHq1WJ-1",
+        code: "https://www.figma.com/design/NRTfW8UgKi0pFhcPMGQA3f/UI-UX-Web-SIMPEDAS?node-id=44-413&t=0AfanY8jWALHq1WJ-1",
+        description: "Ini Merupakan Projek Saya yang Dimana Membuat Desaun UI UX sert flow untuk sistem pangkalan data penididikan dinas pematang siantar.",
+        style: {
+            shadow: "shadow-[#763145]",
+            cover: "from-[#763145]",
+            display: " hidden group-hover:flex"
+        }
+    },
+    {
         img: Store_Online,
         name: "Sisetem Toko Online",
         demo: "https://lynk.id/codifyhub/wnp00m1d2re5",
@@ -86,18 +100,7 @@ const projects = [
             display: " hidden group-hover:flex"
         }
     },
-    {
-        img: Codifyhub,
-        name: "Codifyhub Profile",
-        demo: "https://codify-hub-one.vercel.app/",
-        code: "https://codify-hub-one.vercel.app/",
-        description: "Website Profile CODIFYHUB Platform Yang Menyediakan Jasa Pembuatan Website Dan Penjualan Source Code Yang Terjangkau.",
-        style: {
-            shadow: "shadow-[#FFD43B]",
-            cover: "from-[#FFD43B]",
-            display: " hidden group-hover:flex"
-        }
-    },
+    
     {
         img: Kappdrs,
         name: "Website Company Profile",
@@ -110,6 +113,8 @@ const projects = [
             display: " hidden group-hover:flex"
         }
     },
+
+    
     
     {
         img: Coffe,
@@ -135,6 +140,49 @@ const projects = [
             display: " hidden group-hover:flex"
         }
     },
+
+    {
+        img: Codifyhub,
+        name: "Codifyhub Profile",
+        demo: "https://codify-hub-one.vercel.app/",
+        code: "https://codify-hub-one.vercel.app/",
+        description: "Website Profile CODIFYHUB Platform Yang Menyediakan Jasa Pembuatan Website Dan Penjualan Source Code Yang Terjangkau.",
+        style: {
+            shadow: "shadow-[#FFD43B]",
+            cover: "from-[#FFD43B]",
+            display: " hidden group-hover:flex"
+        }
+    },
+
+    
+
+    {
+        img: sirental,
+        name: "UI UX Rental Mobil APP",
+        demo: "https://www.figma.com/design/dMJuo61ACPMkexTb5IiaLj/Apps-Rent-Mobil?node-id=129-149&t=GgXAtx3DNh0WugiL-1",
+        code: "https://www.figma.com/design/dMJuo61ACPMkexTb5IiaLj/Apps-Rent-Mobil?node-id=129-149&t=GgXAtx3DNh0WugiL-1",
+        description: "Ini merupakan portfolio ui ux saya untuk membuat aplikasi rental mobil.",
+        style: {
+            shadow: "shadow-[#763145]",
+            cover: "from-[#763145]",
+            display: " hidden group-hover:flex"
+        }
+    },
+
+    {
+        img: sifrozen,
+        name: "UI UX Website SIFROZEN (Sistem Informasi Frozen Food)",
+        demo: "https://www.figma.com/design/JjTNo0L5RoJWfIOxdPLwXp/Untitled?node-id=1-3&t=TNRU1FWjjeZ2j5Fo-1",
+        code: "https://www.figma.com/design/JjTNo0L5RoJWfIOxdPLwXp/Untitled?node-id=1-3&t=TNRU1FWjjeZ2j5Fo-1",
+        description: "Ini merupakan projek freelance ui ux saya untuk membuat desain antarmuka dari website sistem toko penjualan frozen food.",
+        style: {
+            shadow: "shadow-[#763145]",
+            cover: "from-[#763145]",
+            display: " hidden group-hover:flex"
+        }
+    },
+
+
     // {
     //     img: Sacco,
     //     name: "Logo Sacco",

@@ -1,0 +1,34 @@
+# ⛔ Folder dependencies
+node_modules/
+
+# ⛔ Output Vite / React build
+dist/
+build/
+
+# ⛔ Log file
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ⛔ Local env file
+.env
+.env.local
+.env.development
+.env.production
+
+# ⛔ IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ⛔ System file
+.DS_Store
+Thumbs.db
+
+# ⛔ Optional: Lock files (hanya jika pakai salah satu)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml

@@ -12,7 +12,7 @@ import web_mi from "../assets/Projects/web mi.png"
 import simpedas from "../assets/Projects/simpedas.png"
 import sirental from "../assets/Projects/sirental.png"
 import sifrozen from "../assets/Projects/siforezen.png"
-
+import tomoni from "../assets/Projects/tomoni.png"
 
 
 const projects = [
@@ -175,6 +175,19 @@ const projects = [
         demo: "https://www.figma.com/design/JjTNo0L5RoJWfIOxdPLwXp/Untitled?node-id=1-3&t=TNRU1FWjjeZ2j5Fo-1",
         code: "https://www.figma.com/design/JjTNo0L5RoJWfIOxdPLwXp/Untitled?node-id=1-3&t=TNRU1FWjjeZ2j5Fo-1",
         description: "Ini merupakan projek freelance ui ux saya untuk membuat desain antarmuka dari website sistem toko penjualan frozen food.",
+        style: {
+            shadow: "shadow-[#763145]",
+            cover: "from-[#763145]",
+            display: " hidden group-hover:flex"
+        }
+    },
+
+    {
+        img: tomoni,
+        name: "Website Informasi Layanan LPK Tomoni",
+        demo: "https://lpk-tomoni-medann.vercel.app/",
+        code: "https://lpk-tomoni-medann.vercel.app/",
+        description: "ini merupakan projek freelance saya untuk membuat website informasi layanan LPK Tomoni yang berisi tentang layanan, profile, dan lain-lain.",
         style: {
             shadow: "shadow-[#763145]",
             cover: "from-[#763145]",
